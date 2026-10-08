@@ -4,7 +4,7 @@
 
 *Student Performance Analytics System*
 
-*Student:* Chandini Gupts 
+*Student:* Chandini Gupta
 *Technology:* Python, NumPy, Pandas
 
 ---
