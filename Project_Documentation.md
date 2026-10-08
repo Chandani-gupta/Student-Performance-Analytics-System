@@ -175,7 +175,7 @@ Through this project, I learned how to:
 
 ## 10. GitHub Repository
 
-*GitHub Repository:* To be added after the project is uploaded to GitHub.
+GitHub Repository: https://github.com/Chandani-gupta/Student-Performance-Analytics-System
 
 ---
 
